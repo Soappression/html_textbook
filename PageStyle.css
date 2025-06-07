@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+html
+{
+	
+}
+
+body {
+	background-color: #1f1f1f;
+	color:antiquewhite;
+}
+
+hr {
+	color:antiquewhite;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Times, "Times New Roman", "serif";
+	font-size: 16;
+	font-weight: bold;
+}
+
+h2
+{
+	text-align: center;
+	font-family: Times, "Times New Roman", "serif";
+	font-size: 14;
+	font-weight: bold;
+}
+
+h3
+{
+	text-align: left;
+	font-family: Times, "Times New Roman", "serif";
+	font-size: 12;
+	font-weight: bold;
+}
+
+footer
+{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+	background-color: #1f1f5b
+	;
+}
+
+footer > a
+{
+	text-decoration: none;
+	color: antiquewhite;
+}
